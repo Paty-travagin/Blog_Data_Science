@@ -4,9 +4,9 @@
         "post0": {
             "title": "Dados de alugueis com Webscrapin",
             "content": "from selenium import webdriver . driver = webdriver.Chrome() driver.get(&#39;https://www.google.com.br&#39;) . barra_pesquisa = driver.find_element_by_xpath(&#39;/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input&#39;) . C: Users User AppData Local Temp/ipykernel_3828/1413251176.py:1: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead barra_pesquisa = driver.find_element_by_xpath(&#39;/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input&#39;) . barra_pesquisa.send_keys(&#39; dados de imóveis como área total, quantidade de quartos zona da cidade kagle n&#39;) . barra_pesquisa.clear() . resultado = driver.find_element_by_xpath(&#39;/html/body/div[1]&#39;) . C: Users User AppData Local Temp/ipykernel_3828/156612792.py:1: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead resultado = driver.find_element_by_xpath(&#39;/html/body/div[1]&#39;) .",
-            "url": "https://paty-travagin.github.io/Blog_Data_Science/2022/05/15/dados_alugueis_webscrapin.html",
-            "relUrl": "/2022/05/15/dados_alugueis_webscrapin.html",
-            "date": " • May 15, 2022"
+            "url": "https://paty-travagin.github.io/Blog_Data_Science/2022/06/01/dados_alugueis_webscrapin.html",
+            "relUrl": "/2022/06/01/dados_alugueis_webscrapin.html",
+            "date": " • Jun 1, 2022"
         }
         
     
